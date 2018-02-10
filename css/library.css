@@ -1,0 +1,59 @@
+* {
+	font-family: Verdana,sans-serif;
+    font-size: 12px;
+    line-height: 1.2;
+}
+
+body{
+	background-color: olivedrab;
+}
+
+table {
+	width: 100% !important;
+	background-color: lavender;
+	margin-left:10px;
+}
+
+td {
+	width: 70px;
+	height: 88px;
+}
+
+img {
+	width: 70px;
+}
+
+.description-td {
+	width: 200px;
+}
+
+.type {
+	width: 50px;
+}
+
+.pdate {
+	width: 100px;
+}
+
+.publisher {
+	width: 100px;
+}
+
+.psize {
+	width: 50px;
+}
+
+.isbn {
+	width: 50px;
+}
+
+.description-div {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 200px;
+	height: 88px;
+}
+
+.logout {
+	font-size: 20px;
+}
